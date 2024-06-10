@@ -1,0 +1,14 @@
+C:\Dev\GtcTool\bin\Debug\net7.0\GtcTool.exe
+C:\Dev\GtcTool\bin\Debug\net7.0\GtcTool.deps.json
+C:\Dev\GtcTool\bin\Debug\net7.0\GtcTool.runtimeconfig.json
+C:\Dev\GtcTool\bin\Debug\net7.0\GtcTool.dll
+C:\Dev\GtcTool\bin\Debug\net7.0\GtcTool.pdb
+C:\Dev\GtcTool\obj\Debug\net7.0\GtcTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GtcTool\obj\Debug\net7.0\GtcTool.AssemblyInfoInputs.cache
+C:\Dev\GtcTool\obj\Debug\net7.0\GtcTool.AssemblyInfo.cs
+C:\Dev\GtcTool\obj\Debug\net7.0\GtcTool.csproj.CoreCompileInputs.cache
+C:\Dev\GtcTool\obj\Debug\net7.0\GtcTool.dll
+C:\Dev\GtcTool\obj\Debug\net7.0\refint\GtcTool.dll
+C:\Dev\GtcTool\obj\Debug\net7.0\GtcTool.pdb
+C:\Dev\GtcTool\obj\Debug\net7.0\GtcTool.genruntimeconfig.cache
+C:\Dev\GtcTool\obj\Debug\net7.0\ref\GtcTool.dll
